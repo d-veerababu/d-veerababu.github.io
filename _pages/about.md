@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: 
 permalink: /
 subtitle: Postdoctoral Fellow, Dept. of Electrical Engg., IISc Bangalore, India # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
