@@ -22,15 +22,15 @@ Dr. Veerababu Dharanalakota conducts interdisciplinary research in the area of a
 
 
 <h4>Research Interests</h4>
-- Computational Acoustics\
-- Applied Mathematics\
-- Scientific Machine Learning\
-- Numerical Optimization\
+- Computational Acoustics
+- Applied Mathematics
+- Scientific Machine Learning
+- Numerical Optimization
 - Noise and Vibration Control
 
-
+### Education
 <h4>Education</h4>
-- PhD, Indian Institute of Technologoly Hyderabad (2015 - 2020)\
-- ME, Indian Institute of Science Bangalore (2011 - 2013)\
+- PhD, Indian Institute of Technologoly Hyderabad (2015 - 2020)
+- ME, Indian Institute of Science Bangalore (2011 - 2013)
 - BTech, Jawaharlal Nehru Technological University Kakindada (2007 - 2011)
 
