@@ -83,7 +83,7 @@ gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
-kaggle_id: 24128039 # your kaggle id
+kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -110,7 +110,7 @@ wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: Dr_VeerababuD # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: veerababu # your zotero username
+zotero_username: # your zotero username
 
 contact_note: >
   [//]: # You can even add a little note about which of these is the best way to reach you.
