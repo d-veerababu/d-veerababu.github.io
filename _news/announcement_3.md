@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-12-14 03:18:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Received prestigeous NVIDIA Academic Grant Program to support my project "Physics-based Machine Learning for Sound Propagation Modelling"
