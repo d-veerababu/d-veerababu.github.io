@@ -28,7 +28,7 @@ Dr. Veerababu Dharanalakota conducts interdisciplinary research in the area of a
 - Numerical Optimization
 - Noise and Vibration Control
 
-### Education
+
 <h4>Education</h4>
 - PhD, Indian Institute of Technologoly Hyderabad (2015 - 2020)
 - ME, Indian Institute of Science Bangalore (2011 - 2013)
