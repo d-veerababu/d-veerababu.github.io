@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physics-Informed ML
-description: for Acoustics
+description: for 1-D Acoustics
 img: assets/img/12.jpg
 importance: 1
 category: work
