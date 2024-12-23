@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics-base ML
+title: Physics-Informed ML
 description: for Acoustics
 img: assets/img/12.jpg
 importance: 1
