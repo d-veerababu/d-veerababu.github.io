@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Veerababu Dharanalakota",
+    "label": "Postdoctoral Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dveerababu@outlook.com",
+    "phone": "",
+    "url": "https://d-veerababu.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Department of Electrical Engineering",
+      "postalCode": "Indian Institute of Science, CV Raman Road",
+      "city": "Bangalore",
+      "countryCode": "India",
+      "region": "Karnataka"
     },
     "profiles": [
       {
