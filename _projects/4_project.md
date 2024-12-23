@@ -3,7 +3,7 @@ layout: page
 title: Statistical Energy Analysis
 description: for High-frequency Noise Control
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
