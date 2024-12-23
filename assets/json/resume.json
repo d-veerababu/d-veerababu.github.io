@@ -76,8 +76,31 @@
       "startDate": "2015-07-27",
       "endDate": "2020-10-08",
       "score": "9.8",
-      "courses": [""]
+      "courses": ""
+    },
+    {
+      "institution": "Indian Institute of Science, Bangalore, India",
+      "location": "",
+      "url": "https://iisc.ac.in/",
+      "area": "Acoustics",
+      "studyType": "ME",
+      "startDate": "2011-08-01",
+      "endDate": "2013-05-31",
+      "score": "6.9",
+      "courses": ""
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University, Kakinada, India",
+      "location": "",
+      "url": "https://www.jntuk.edu.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "BTech",
+      "startDate": "2007-09-27",
+      "endDate": "2011-05-31",
+      "score": "6.9",
+      "courses": ""
     }
+    
   ],
   "awards": [
     {
