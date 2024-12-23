@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Statistical Energy Analysis
+description: for High-frequency Noise Control
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
