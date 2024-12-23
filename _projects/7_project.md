@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Physics-Informed ML
+description: for 2-D Acoustics
 img: assets/img/4.jpg
-importance: 1
-category: fun
+importance: 2
+category: work
 related_publications: true
 ---
 
