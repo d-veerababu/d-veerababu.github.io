@@ -26,7 +26,7 @@
     {
       "name": "Indian Institute of Science, Bangalore, India",
       "position": "Postdoctoral Fellow",
-      "url": "",
+      "url": "https://iisc.ac.in/",
       "startDate": "2021-11-15",
       "endDate": "",
       "summary": "",
@@ -36,7 +36,7 @@
     {
       "name": "Indian Institute of Technology Hyderabad, India",
       "position": "Postdoctoral Fellow",
-      "url": "",
+      "url": "https://www.iith.ac.in/",
       "startDate": "2021-07-01",
       "endDate": "2021-11-14",
       "summary": "",
@@ -46,9 +46,9 @@
     {
       "name": "Indian Institute of Technology Hyderabad, India",
       "position": "Research Associate",
-      "url": "",
-      "startDate": "2020-10-11",
-      "endDate": "2020-06-30",
+      "url": "https://www.iith.ac.in/",
+      "startDate": "2020-10-9",
+      "endDate": "2021-06-30",
       "summary": "",
       "highlights": ["Analytical and numerical modelling of air-filters for acoustics", "Statistical energy analysis (SAE) for high frequency noise control", "Design of a quieter silencer for the Wankel engine"]
                     
@@ -68,15 +68,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Indian Institute of Technology Hyderabad, India",
+      "location": "",
+      "url": "https://www.iith.ac.in/",
+      "area": "Acoustics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015-07-27",
+      "endDate": "2020-10-08",
+      "score": "9.8",
+      "courses": [""]
     }
   ],
   "awards": [
