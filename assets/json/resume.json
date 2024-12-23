@@ -32,6 +32,16 @@
       "summary": "",
       "highlights": ["Modelling sound propagation using physics-informed neural networks (PINNs)", "Multi-layer perceptrons (MLPs), Adaptive learning rate algorithms, Loss-based optimizer switching algorithms, Kolmogorov-Arnold Networks (KANs), Uncertainty quantification"]
                     
+    },
+    {
+      "name": "Indian Institute of Technology Hyderabad, India",
+      "position": "Postdoctoral Fellow",
+      "url": "",
+      "startDate": "2021-07-01",
+      "endDate": "2021-11-14",
+      "summary": "",
+      "highlights": ["Theoretical modelling and simulation of sound propagation in the ducts", "Developing scaling laws for the simulation and testing of ducted systems"]
+                    
     }
   ],
   "volunteer": [
