@@ -2,7 +2,7 @@
 layout: page
 title: Physics-Informed ML
 description: for 2-D Acoustics
-img: assets/img/4.jpg
+img: assets/img/2-d_nn.png
 importance: 2
 category: work
 related_publications: true
