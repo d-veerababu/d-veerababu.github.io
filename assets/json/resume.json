@@ -31,7 +31,7 @@
       "endDate": "",
       "summary": "",
       "highlights": ["Modelling sound propagation using physics-informed neural networks (PINNs)"]
-      "highlights": ["Multi-layer perceptrons (MLPs), Adaptive learning rate algorithms, Loss-based optimizer switching algorithms, Kolmogorov-Arnold Networks (KANs), Uncertainty quantification"]
+                    ["Multi-layer perceptrons (MLPs), Adaptive learning rate algorithms, Loss-based optimizer switching algorithms, Kolmogorov-Arnold Networks (KANs), Uncertainty quantification"]
     }
   ],
   "volunteer": [
