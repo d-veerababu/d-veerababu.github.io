@@ -196,7 +196,7 @@
   "certificates": [
     {
       "name": "Acoustical Society of India (ASI)",
-      "date": "2024",
+      "date": "",
       "issuer": "Life Member",
       "url": "https://acousticsindia.org/",
       "icon": "fa-solid fa-location-dot"
