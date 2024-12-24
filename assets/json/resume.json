@@ -199,14 +199,14 @@
       "date": "",
       "issuer": "Life Member",
       "url": "https://acousticsindia.org/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-user-group"
     },
     {
       "name": "American Institute of Aeronautics and Astronautics (AIAA)",
       "date": "",
       "issuer": "Member",
       "url": "https://www.aiaa.org/",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-user-group-simple"
     },
     {
       "name": "Institute of Noise Control Engineering - USA (INCE-USA)",
