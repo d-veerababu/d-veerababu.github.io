@@ -193,48 +193,41 @@
     }
     
   ],
-  "certificates": [
+  "affiliations": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Acoustical Society of India (ASI)",
+      "date": "",
+      "issuer": "Life Member",
+      "url": "https://acousticsindia.org/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "American Institute of Aeronautics and Astronautics (AIAA)",
+      "date": "",
+      "issuer": "Member",
+      "url": "https://www.aiaa.org/",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Institute of Noise Control Engineering - USA (INCE-USA)",
+      "date": "",
+      "issuer": "Member",
+      "url": "https://www.inceusa.org/",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "International Institute of Acoustics and Vibration (IIAV)",
+      "date": "",
+      "issuer": "Member",
+      "url": "https://www.iiav.org/",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Acoustical Society of America (ASA)",
+      "date": "",
+      "issuer": "Associate Member",
+      "url": "https://acousticalsociety.org/",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
