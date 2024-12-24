@@ -206,28 +206,28 @@
       "date": "",
       "issuer": "Member",
       "url": "https://www.aiaa.org/",
-      "icon": "fa-solid fa-user-group-simple"
+      "icon": "fa-solid fa-user-group"
     },
     {
       "name": "Institute of Noise Control Engineering - USA (INCE-USA)",
       "date": "",
       "issuer": "Member",
       "url": "https://www.inceusa.org/",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-user-group"
     },
     {
       "name": "International Institute of Acoustics and Vibration (IIAV)",
       "date": "",
       "issuer": "Member",
       "url": "https://www.iiav.org/",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-user-group"
     },
     {
       "name": "Acoustical Society of America (ASA)",
       "date": "",
       "issuer": "Associate Member",
       "url": "https://acousticalsociety.org/",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-user-group"
     }
   ],
   "publications": [
