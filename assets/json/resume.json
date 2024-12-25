@@ -307,20 +307,30 @@
       "keywords": [
         "Microsoft Office",
         "Latex",
-        "Zotero, WordFull",
+        "Zotero",
         "WordFull"
       ]
     }  
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Conversational",
+      "icon": ""
+    },
+    {
+      "language": "Telugu",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "German",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
