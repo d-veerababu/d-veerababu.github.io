@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-10 15:45:00-0400
+date: 2024-02-21 15:45:00-0400
 inline: true
 related_posts: false
 ---
 
-Received "International Travel Grant" from the Department of Science and Technology (DST), Govt. of India.
+Journal paper titled "Solving 2-D Helmholtz equation in the rectangular, circular, and elliptical domains using neural networks" accepted for the publication in the Journal of Sound and Vibration.
