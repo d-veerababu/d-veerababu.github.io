@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-10 15:45:00-0400
+date: 2025-03-21 15:45:00-0400
 inline: true
 related_posts: false
 ---
 
-Received "International Travel Grant" from the Department of Science and Technology (DST), Govt. of India.
+Journal paper titled “Prediction of acoustic field in 1-D uniform duct with varying mean flow and temperature using neural networks” accepted for the publication in the Journal of Theoretical and Computational Acoustics.
