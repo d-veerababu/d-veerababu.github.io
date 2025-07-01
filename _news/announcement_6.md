@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-21 15:45:00-0400
+date: 2025-06-26 15:45:00-0400
 inline: true
 related_posts: false
 ---
 
-Journal paper titled “Prediction of acoustic field in 1-D uniform duct with varying mean flow and temperature using neural networks” accepted for the publication in the Journal of Theoretical and Computational Acoustics.
+Journal paper titled “Improving neural network training using loss-based dynamic learning rate schedule for PINNs and image classification” accepted for the publication in Machine Learning with Applications.
