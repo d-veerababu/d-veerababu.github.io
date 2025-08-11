@@ -42,7 +42,7 @@
       "summary": "",
       "highlights": ["Theoretical modelling and simulation of sound propagation in the ducts", "Developing scaling laws for the simulation and testing of ducted systems"]
                     
-    },
+    }
   ],
   "volunteer": [
     {
@@ -90,6 +90,13 @@
     
   ],
   "awards": [
+    {
+      "title": "NVIDIA Academic Grant",
+      "date": "2024",
+      "awarder": "NVIDIA Corporation, USA",
+      "url": "https://www.nvidia.com/en-in/industries/higher-education-research/academic-grant-program/",
+      "summary": ""
+    },
     {
       "title": "Young Acousticians Grant",
       "date": "2023",
