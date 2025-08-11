@@ -5,3 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - d-veerababu/1d-helmholtz-pinn-solver
+  - d-veerababu/1d-acoustics-meanflow-tempgradients-pinn
+  - d-veerababu/2d-acoustics-circle-pinn
+  - d-veerababu/1d-acoustics-meanflow-pinns
+  - d-veerababu/1d-acoustics-tempgradients-pinn
